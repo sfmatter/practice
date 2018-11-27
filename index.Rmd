@@ -1,0 +1,21 @@
+---
+title: "index"
+author: "Steve Matter"
+date: "November 27, 2018"
+output: html_document
+---
+### Testing R Markdown
+
+My first R chunk
+
+```{r}
+x <- 2+2
+x
+```
+```{r}
+plot(cars$speed, cars$distance)
+```
+
+
+
+
